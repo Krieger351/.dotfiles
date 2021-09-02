@@ -27,7 +27,8 @@ set smartindent
 set nowrap
 set noswapfile
 set colorcolumn=80
-if exists('belloff')
+
+if v:version < 800
   set belloff=all
 endif
 set noerrorbells
