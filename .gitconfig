@@ -1,0 +1,6 @@
+[user]
+	name = Alexander Glica
+	email = aglica@meraki.com
+[alias]
+	s = status
+	l = log --oneline
